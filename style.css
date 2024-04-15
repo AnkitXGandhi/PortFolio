@@ -314,13 +314,8 @@ span {
 }
 
 .portfolio-layer a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 5rem;
-    height: 5rem;
-    background: var(--text-color);
-    border-radius: 100%;
+    text-decoration: none;
+    color: inherit;
 }
 
 .portfolio-layer a i {
